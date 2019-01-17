@@ -1,0 +1,38 @@
+#python artifacts
+*.pyo
+*.pyc
+#editor and IDE artifacts
+.idea/
+nbproject/
+*~
+
+#NFS artifacts
+#OS X artifacts
+
+#internationalization Artifacts
+
+#testing artifacts
+#installation artifacts
+bin
+develop-eggs
+eggs
+parts
+src/*.egg-info
+
+#static assets pipeline artifacts
+staticfiles
+
+
+
+#unknown artifacts
+dist
+build
+additionals.py
+local_settings.py
+#downloads
+#lib
+#lib64
+*.sqlite3
+geckodriver.log
+__pycache__
+
